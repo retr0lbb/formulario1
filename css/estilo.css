@@ -1,0 +1,71 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+body{
+    background-color: #25064C;
+}
+.topo{
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-right: 500px;
+}
+.centraliza{
+    margin-top: 120px;
+
+}
+.log{
+    font-size: 25px;
+    color: white;
+}
+.formulario{
+    width: 250px;
+    height: 150px;
+    background: #36175E;
+    display: table;
+    border-radius: 5px;
+    color: white;
+}
+.interna{
+    margin: auto;
+    text-align: left;
+    padding: 45px;
+}
+.button input{
+    width: 100%;
+    text-align: center;
+    margin-top: 25px; 
+    background-color: #25064C;
+    width: 125px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 62px;
+    cursor: pointer;
+    border: solid 2px black;
+    color: white;
+    border-radius: 15px;
+}
+.formulario a{
+    text-decoration: none;
+    color: white
+}
+
+.formulario p{
+    text-align: center;
+}
+input{
+    width: 100%
+}
+.button input:hover{
+    color: black;
+    background-color: #7C3281;
+
+}
+.titulo p{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 80px;
+}
